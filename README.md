@@ -10,6 +10,12 @@ Application to roll a virtual dices
 - Understand and use collection types such as Swift arrays.
 - Test and debug your app with the Xcode console.
 - Learn about randomisation and how to generate random numbers in Swift.
+- How to add constraints and understanding how Auto Layout works.
+- How to Pin and Align elements.
+- How to create containers to configure advanced layouts.
+- How to debug auto layout errors.
+- Understanding what Xcode needs in order to correctly layout a design.
+- How to use Stack Views to create complex interfaces.
 
 https://user-images.githubusercontent.com/88428858/200166527-dafdb8c5-b84c-4932-8ad3-76da0f0c6cfa.mp4
 
